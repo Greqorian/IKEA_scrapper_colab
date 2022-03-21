@@ -5,7 +5,7 @@
   <h3 align="center">IKEAcom_Image_Scraper</h3>
 
   <p align="center">
-    Scraping script to collect pictures from IKEA websites
+    Scraping pictures from IKEA websites
   </p>
 </p>
 
