@@ -1,4 +1,4 @@
-#<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
 
@@ -11,13 +11,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
 This script was developed as part of a bachelor thesis at HTW Berlin.
 It allows to collect image files from IKEA.com website in order to train an artificial intelligence model to recognize ikea store products. 
 The model used in the IKEA_classifier application is part of the final project.
 
-## How to use
+### How to use
 
 To start collecting images from the ikea website, please open the jupiter notebook in [Google Colab](https://colab.research.google.com/drive/1Lv0xU9PGw4lm1DM49nQAqwYcq2vU1ULJ?usp=sharing) and follow the instructions
 
@@ -28,8 +28,8 @@ To start collecting images from the ikea website, please open the jupiter notebo
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#)
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Gregor Pawlak - [linkedIn](https://www.linkedin.com/in/grzegorz-pawlak/) 
 
-Project Link: [https://github.com/Greqorian/pfotendoctor_react_app](https://github.com/Greqorian/pfotendoctor_react_app)
+Project Link: [https://github.com/Greqorian/IKEAcom_Image_Scraper](https://github.com/Greqorian/IKEAcom_Image_Scraper)
