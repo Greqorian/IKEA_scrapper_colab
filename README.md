@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<img src="batch_ikea_images.png" width="600"> 
+<img src="batch_ikea_images.png" width="350"> 
   <h3 align="center">IKEAcom_Image_Scraper</h3>
 
   <p align="center">
